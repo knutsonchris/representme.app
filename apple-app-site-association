@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "47F38F8Z22.knutson.com.vote",
-                "paths": [ "/share",]
+                "appID": "LLR2X48AU3.dev.knutson.representme",
+                "paths": [ "*",]
             }
         ]
     }
